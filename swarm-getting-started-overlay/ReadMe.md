@@ -2,6 +2,8 @@
 
 ## Links 
     [swarm - ingress](https://docs.docker.com/engine/swarm/ingress/)
+    [swarm - stack compose reverences](https://docs.docker.com/compose/compose-file/#not-supported-for-docker-stack-deploy)
+    [swarm secrets](https://docs.docker.com/engine/swarm/secrets/)
 
 ## Overlay Network Driver
     --driver overlay
