@@ -46,6 +46,8 @@ docker service ls
 
 docker container ls
 
+echo "This is an external secret" | docker secret create my_external_secret -
+
 ## Creating a 3-Node Swarm Cluster
 
 http://play-with-docker.com
